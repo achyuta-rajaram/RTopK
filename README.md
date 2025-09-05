@@ -1,0 +1,2 @@
+# RTopK
+pip install -e .
